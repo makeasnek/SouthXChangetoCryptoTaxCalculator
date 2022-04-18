@@ -1,5 +1,5 @@
 # SouthXChangetoCryptoTaxCalculator
-This python script will help you convert your exported transactions from SouthXChange into a format that cryptotaxcalculator.io likes. It currently handles deposits, withdrawals, and trades, but not buys or sells (if you are using fiat currency). It is written for Python3 and above.
+This python script will help you convert your exported transactions from SouthXChange (CSV) into a format that cryptotaxcalculator.io likes. It currently handles deposits, withdrawals, and trades, but not buys or sells (if you are using fiat currency). It is written for Python3 and above.
 
 <b>Before using this software, if you haven't gotten too deep into using CryptoTaxCalculator yet, I would implore you to use another website. I would unequivocally review their service's functionality as "hot garbage" dusted with a light sprinkle of "dumpster juice".</b> I have verified that this script outputs data in the correct format, but that will unfortunately will not help much because:
 * CryptoTaxCalculator seems to struggle reconciling time zones even when amounts, source, and destination are specified
