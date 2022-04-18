@@ -4,7 +4,7 @@ This python script will help you convert your exported transactions from SouthXC
 <b>Before using this software, if you haven't gotten too deep into using CryptoTaxCalculator yet, I would implore you to use another website. I would unequivocally review their service's functionality as "hot garbage" dusted with a light sprinkle of "dumpster juice".</b> I have verified that this script outputs data in the correct format, but that will unfortunately will not help much because:
 * CryptoTaxCalculator seems to struggle reconciling time zones even when amounts, source, and destination are specified
 * Even with two public addresses using their own import method, it can't correctly detect transfers between them. This bug exists in Bitcoin, not some random altcoin that nobody has heard about which you are using SouthExchange to trade
-* I went back and forth for WEEKS with their support staff and was eventually told that they know their import system from "non-specific top 5 by volume crypto exchange" is broken but that there's nothing they can do about it and we're oh so sorry that you couldn't file your taxes on time because of it. Actually, they didn't apologize for the delay in not solving the issue or that their software doesn't even provide the basic functionality promised.
+* I went back and forth for WEEKS with their support staff and was eventually told that they know their import system from "non-specific top 5 by volume crypto exchange" is broken but that there's nothing they can do about it and we're oh so sorry that you couldn't file your taxes on time because of it. 
 
 How to use:
 1. Save your SouthXChange trades export as "import.csv" and put it in the same directory as the script.
